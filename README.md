@@ -285,7 +285,7 @@ Robust calculation with error handling for long time series.
 
 ## 📬 Contact
 
-**Girish Sabale**
+**Gangarde Ganesh**
 Project Lead – Data Visualization
 LinkedIn: [https://linkedin.com/in/Gangarde Ganesh](https://www.linkedin.com/in/ganesh-gangarde-/)
 
